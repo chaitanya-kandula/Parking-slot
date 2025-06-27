@@ -84,14 +84,3 @@ Chaitanya Kandula
 Arduino IDE
 ThinkerCAD Circuits
 GitHub
-
-📜 License
-
----
-
-Let me know if you want:
-- The `.gitignore` file for Arduino
-- Combined README for multiple Arduino projects
-- Help uploading this directly to your GitHub repo
-
-
